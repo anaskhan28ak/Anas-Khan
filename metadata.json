@@ -1,0 +1,6 @@
+{
+  "name": "Anas Khan Portfolio",
+  "description": "Portfolio website for Anas Khan featuring full-screen Hero and About Me sections inspired by custom dark emerald UI designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
